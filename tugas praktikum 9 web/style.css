@@ -1,0 +1,26 @@
+.heading1{
+    text-align: center;
+    color: black;
+    margin-top: 70px;
+}
+.heading1 span{
+    font-weight: 600;
+}
+.heading2{
+    text-align: center;
+    color: black;
+    margin-top: 30px;
+}
+.col{
+    margin-top: 70px;
+}
+.footer-content{
+    background-color: black;
+    color: white;
+    height: 50px;
+    margin-top: 70px;
+}
+.footer-content p{
+    text-align: center;
+    padding-top: 13px;
+}
